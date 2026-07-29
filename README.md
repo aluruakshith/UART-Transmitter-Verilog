@@ -1,5 +1,10 @@
 # UART Transmitter (Verilog HDL)
 
+![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
+![Simulation](https://img.shields.io/badge/Simulation-Icarus%20Verilog-green)
+![Waveform](https://img.shields.io/badge/Waveform-GTKWave-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)# UART Transmitter (Verilog HDL)
+
 ## Overview
 
 This project implements an **8-bit UART (Universal Asynchronous Receiver/Transmitter) Transmitter** using **Verilog HDL**. The design follows the standard **8N1 UART protocol** (1 Start Bit, 8 Data Bits, No Parity, 1 Stop Bit).
